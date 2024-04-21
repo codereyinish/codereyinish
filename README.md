@@ -27,7 +27,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 </p>
 ###
 Spotify Playing
-[! [Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 <hr>
 Technologies I've been learning and using so far :
 
