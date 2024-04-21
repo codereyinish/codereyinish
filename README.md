@@ -25,9 +25,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codereyinish&hide=TeX,HTML&theme=tokyonight">
 </p>
-:musical_note: I'm currently listening:
-
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
+###
+Spotify Playing
+[! [Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 <hr>
 Technologies I've been learning and using so far :
 
