@@ -27,3 +27,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 :musical_note: I'm currently listening:
 
 [![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
+<hr>
+<p align="center">
+  <img src="https://github.com/codereynish/codreyinish/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
