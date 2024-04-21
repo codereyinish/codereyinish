@@ -22,7 +22,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 </p>
 <br />
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codereyinish-src&hide=TeX,HTML&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codereyinish&hide=TeX,HTML&theme=tokyonight">
 </p>
 :musical_note: I'm currently listening:
 
