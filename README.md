@@ -16,13 +16,13 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 <hr>
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github-readme-stats.vercel.app/api?username=codereyinish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=codereyinish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 </p>
 <br />
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codereyinish-src&hide=TeX,HTML&theme=tokyonight">
 </p>
 :musical_note: I'm currently listening:
 
