@@ -7,7 +7,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at <a href= "https://www.sjny.edu"> St Joseph's University,Brooklyn, NY.</a>
+- 🔭 I’m currently a CS student at  St Joseph's University,Brooklyn, NY.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship.
 -  💬 Ask me about anything, I am happy to help 
