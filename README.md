@@ -30,7 +30,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-  [![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)](https://www.java.com/)
+  ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)](https://www.java.com/)
     ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
 - Frontend : <br />
