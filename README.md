@@ -10,6 +10,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at  St Joseph's University,Brooklyn, NY.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship.
+- 🌱 Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
 
@@ -18,17 +19,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 <br>
 <hr>
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=codereyinish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  <img src="https://github-readme-stats.vercel.app/api?username=codereyinish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-</p>
-<br />
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codereyinish&hide=TeX,HTML&theme=tokyonight">
-</p>
-<hr>
-🌱 Technologies I've been learning and using so far :
+### 🛠 &nbsp;Languages and Tools
 
 - Programming languages : <br />
   ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
@@ -51,4 +42,16 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Github](https://img.shields.io/badge/GitHub-eee?style=flat-square&logo=github&logoColor=000000)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
-  
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ShubhamSarda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codereyinish&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codereyinish&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
