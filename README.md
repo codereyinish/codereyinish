@@ -43,9 +43,7 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
 ---
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ShubhamSarda">
+<br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codereyinish&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Github_Stats_Codereyinish" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=codereyinish&show_icons=true&locale=en&theme=chartreuse-dark" alt="Github_Stats_Codereyinish" width="410" /></p>
   
 </a>
