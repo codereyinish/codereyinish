@@ -14,10 +14,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
 
-
-
-<br>
-<br>
 ---
 ### 🛠 &nbsp;Languages and Tools
 
@@ -43,7 +39,6 @@ I'm a computer science student who is passionate about writing code, solving pro
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
 ---
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
