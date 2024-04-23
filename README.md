@@ -2,7 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Manish Bista</h1>
-<br>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
