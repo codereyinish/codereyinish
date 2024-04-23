@@ -18,7 +18,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br>
 <br>
-<hr>
+---
 ### 🛠 &nbsp;Languages and Tools
 
 - Programming languages : <br />
@@ -42,6 +42,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Github](https://img.shields.io/badge/GitHub-eee?style=flat-square&logo=github&logoColor=000000)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -51,7 +52,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codereyinish&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
+---
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
-
 ---
