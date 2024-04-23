@@ -6,6 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=codereyinish&color=brightgreen" alt="watching_count" />
  </p> -->
  <br>
+ <p>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a 21 yrs old computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
@@ -16,6 +17,7 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
 - 🌱 Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
+ </p>
 
 ---
 ### 🛠 &nbsp;Languages and Tools
