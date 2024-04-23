@@ -48,6 +48,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![ApacheMaven](https://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apachemaven&logoColor=000000)
   ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-eee?style=flat-square&logo=springboot)
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
+  ![Github](https://img.shields.io/badge/GitHub-eee?style=flat-square&logo=github&logoColor=000000)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
   
