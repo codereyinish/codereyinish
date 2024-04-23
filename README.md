@@ -14,7 +14,7 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
 - 🔭 I’m currently a CS student at  St Joseph's University,Brooklyn, NY.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship.
-- 🌱 Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
+- 🌱 Learning more about Entrepreneurship, Metaverse, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
  </p>
