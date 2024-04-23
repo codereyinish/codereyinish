@@ -44,5 +44,5 @@ Technologies I've been learning and using so far :
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
-  ![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)
+  ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
   
