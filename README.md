@@ -48,6 +48,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 </a>
 </p>
 ---
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
