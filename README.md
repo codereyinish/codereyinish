@@ -5,6 +5,7 @@
 <!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=codereyinish&color=brightgreen" alt="watching_count" />
  </p> -->
+ <br>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a 21 yrs old computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
