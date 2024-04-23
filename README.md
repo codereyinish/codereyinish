@@ -16,7 +16,7 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
 - 👯 I’m looking for a software development internship.
 - 🌱 Learning more about Entrepreneurship, Metaverse, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
-- 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
+- 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
  </p>
 
 ---
