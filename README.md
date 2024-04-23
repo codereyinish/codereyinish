@@ -42,8 +42,8 @@ Technologies I've been learning and using so far :
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
 - OS & IDE & Tools : <br />
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellijidea)
-  ![ApacheMaven](https://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apachemaven)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellijidea&logoColor=000000)
+  ![ApacheMaven](https://img.shields.io/badge/-Maven-eee?style=flat-square&logo=apachemaven&logoColor=000000)
   ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-eee?style=flat-square&logo=springboot)
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
