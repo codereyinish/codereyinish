@@ -28,7 +28,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codereyinish&hide=TeX,HTML&theme=tokyonight">
 </p>
 <hr>
-Technologies I've been learning and using so far :
+🌱 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
   ![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
