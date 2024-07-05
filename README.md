@@ -10,10 +10,9 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a 21 yrs old computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🔭 I’m currently a CS student at  St Joseph's University,Brooklyn, NY.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship.
+- 🔭 Currently pursuing a CS degree at St Joseph's University, Brooklyn, NY.
+- 📚 Diving deep into LLMs, fine-tuning techniques, and the broader AI/ML ecosystem.
+- 👯 Seeking internships in AI, machine learning, or software development.
 - 🌱 Learning more about Entrepreneurship, Metaverse, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
