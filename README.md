@@ -43,6 +43,17 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
   ![Github](https://img.shields.io/badge/GitHub-eee?style=flat-square&logo=github&logoColor=000000)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
+- Data Science & AI : <br />
+![Conda](https://img.shields.io/badge/-Conda-eee?style=flat-square&logo=anaconda&logoColor=44A833)
+![Jupyter](https://img.shields.io/badge/-Jupyter-eee?style=flat-square&logo=jupyter&logoColor=F37626)
+![PyTorch](https://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/-Pandas-eee?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-eee?style=flat-square&logo=numpy&logoColor=013243)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-eee?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Transformers](https://img.shields.io/badge/-Transformers-eee?style=flat-square&logo=transformers&logoColor=007ACC)
+![LangChain](https://img.shields.io/badge/-LangChain-eee?style=flat-square&logo=langchain&logoColor=339933)
+![Gradio](https://img.shields.io/badge/-Gradio-eee?style=flat-square&logo=gradio&logoColor=F38020)
+![Streamlit](https://img.shields.io/badge/-Streamlit-eee?style=flat-square&logo=streamlit&logoColor=FF4B4B)
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
