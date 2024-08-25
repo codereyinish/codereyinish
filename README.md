@@ -11,7 +11,7 @@
 
 I'm a 21 yrs old computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 🔭 Currently pursuing a CS degree at St Joseph's University, Brooklyn, NY.
-- 📚 Diving deep into LLMs, fine-tuning techniques, and the broader AI/ML ecosystem.
+- 📚 Diving deep into LLMs(AGENT), RAG , fine-tuning techniques, and the broader AI/ML ecosystem.
 - 👯 Seeking internships in AI, machine learning, or software development.
 - 🌱 Learning more about Entrepreneurship, Metaverse, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
