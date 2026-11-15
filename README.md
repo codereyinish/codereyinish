@@ -9,10 +9,11 @@
  <p>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a 21 yrs old computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-- 🔭 Currently pursuing a CS degree at St Joseph's University, Brooklyn, NY.
+I'm a 23-year-old software engineer who likes writing code, solving problems, automating things, and building software.
+- 🎓 Graduated in Computer Science from St Joseph's University, Brooklyn, NY (May 2026).
+- 💼 Looking for full-time roles in software engineering, AI/ML, or cloud.
+- 🚀 Recently built ClassRec: live lecture transcription, running on AWS with Docker. ([classrec.com](https://classrec.com) · [overview](https://github.com/codereyinish/ClassRec-showcase))
 - 📚 Diving deep into LLMs(AGENT), RAG , fine-tuning techniques, and the broader AI/ML ecosystem.
-- 👯 Seeking internships in AI, machine learning, or software development.
 - 🌱 Learning more about Entrepreneurship, Metaverse, Automations and Algorithms.
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
@@ -33,6 +34,7 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
     ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
 - Backend : <br />
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+    ![FastAPI](https://img.shields.io/badge/-FastAPI-eee?style=flat-square&logo=fastapi&logoColor=009688)
 - OS & IDE & Tools : <br />
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-eee?style=flat-square&logo=intellijidea&logoColor=000000)
@@ -41,6 +43,8 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
   ![Github](https://img.shields.io/badge/GitHub-eee?style=flat-square&logo=github&logoColor=000000)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
+  ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ED)
+  ![AWS](https://img.shields.io/badge/-AWS-eee?style=flat-square)
   ![Webpack](https://img.shields.io/badge/-Webpack-eee?style=flat-square&logo=Webpack)
 - Data Science & AI : <br />
 ![Conda](https://img.shields.io/badge/-Conda-eee?style=flat-square&logo=anaconda&logoColor=44A833)
@@ -53,12 +57,3 @@ I'm a 21 yrs old computer science student who is passionate about writing code, 
 ![LangChain](https://img.shields.io/badge/-LangChain-eee?style=flat-square&logo=langchain&logoColor=339933)
 ![Gradio](https://img.shields.io/badge/-Gradio-eee?style=flat-square&logo=gradio&logoColor=F38020)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-eee?style=flat-square&logo=streamlit&logoColor=FF4B4B)
----
-### ⚙️ &nbsp;GitHub Analytics
-<br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codereyinish&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Github_Stats_Codereyinish" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=codereyinish&show_icons=true&locale=en&theme=chartreuse-dark" alt="Github_Stats_Codereyinish" width="410" /></p>
-  
-</a>
-</p>
-
-
