@@ -14,7 +14,7 @@ I'm a 23-year-old software engineer who likes writing code, solving problems, au
 - 💼 Looking for full-time roles in software engineering, AI/ML, or cloud.
 - 🚀 Recently built ClassRec: live lecture transcription, running on AWS with Docker. ([classrec.com](https://classrec.com) · [overview](https://github.com/codereyinish/ClassRec-showcase))
 - 📚 Diving deep into LLMs(AGENT), RAG , fine-tuning techniques, and the broader AI/ML ecosystem.
-- 🌱 Learning more about Entrepreneurship, Metaverse, Automations and Algorithms.
+- 🌱 Learning more about cloud deployment (AWS now, Azure next), automation, entrepreneurship, and algorithms.
 -  💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:inishbista20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manish-bista/)
  </p>
